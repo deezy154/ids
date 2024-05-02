@@ -1,4 +1,4 @@
-{{"itemid":"1","itemname":"Blank Seed"},
+{"ids":[{"itemid":"1","itemname":"Blank Seed"},
 {"itemid":"2","itemname":"Dirt"},
 {"itemid":"3","itemname":"Dirt Seed"},
 {"itemid":"4","itemname":"Lava"},
@@ -7363,4 +7363,4 @@
 {"itemid":"7363","itemname":"Colonization Wagon Base Seed"},
 {"itemid":"7364","itemname":"Colonization Wagon Canopy"},
 {"itemid":"7365","itemname":"Colonization Wagon Canopy Seed"},
-{"itemid":"7366","itemname":"Wagon Wheel"}}
+{"itemid":"7366","itemname":"Wagon Wheel"}]}
